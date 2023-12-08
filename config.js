@@ -8,7 +8,7 @@ import axios from 'axios'
 
 global.owner = [
   ['+212620986991', 'MOSAMIM M.S.M', true] 
-  [''] 
+  ['+212622181951', 'MOSAMIM Bot', true'] 
 ] //Number of owners
 
 //global.pairingNumber = "" //put your bot number here
@@ -51,7 +51,7 @@ global.APIKeys = { // APIKey Here
 // Sticker WM
 global.botname = 'MOSAMIM BOT'
 global.premium = 'true'
-global.packname = '@м.ṡ.м/مِٰـصِٰـۛৣــــمِ🇸🇰༒' 
+global.packname = '@mosamo' 
 global.author = '@aymaneedits' 
 global.menuvid = 'https://telegra.ph/file/085c4b1068f0f4f8db970.mp4'
 global.igfg = '▢ Follow on Instagram\nhttps://www.instagram.com/asli_guru69\n' 
